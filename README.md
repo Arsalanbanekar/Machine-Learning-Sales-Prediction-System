@@ -1,4 +1,4 @@
-# 📈 Sales Prediction Web App (Machine Learning)
+# 📈 Machine Learning Sales Prediction System
 
 A simple machine learning web application built with **Python, Scikit-learn, and Streamlit** that predicts product sales based on advertising spend across TV, Radio, and Newspaper channels.
 
